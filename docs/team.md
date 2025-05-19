@@ -2,6 +2,7 @@
 layout: default
 title: Team
 nav_order: 3
+permalink: /docs/team
 ---
 
 ## Project Team

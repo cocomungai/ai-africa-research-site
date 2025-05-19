@@ -2,6 +2,7 @@
 layout: default
 title: Research Goals
 nav_order: 2
+permalink: /docs/goals
 ---
 
 ## Research Questions
