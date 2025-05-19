@@ -1,0 +1,15 @@
+title: AI in Africa Research
+description: A research project exploring the impact of AI innovation and adoption on firm productivity in Africa
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Enable navigation structure
+nav:
+  - title: Home
+    url: /
+  - title: Research Goals
+    url: /ai-africa-research-site/docs/goals
+  - title: Team
+    url: /ai-africa-research-site/docs/team
+  - title: Updates
+    url: /ai-africa-research-site/docs/updates
